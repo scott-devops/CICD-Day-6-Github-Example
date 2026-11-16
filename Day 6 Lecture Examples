@@ -1,0 +1,31 @@
+# for i in range(5):
+#     match i:
+#         case 2:
+#             print("pass")
+#             pass
+#             print("pass done")
+#         case _:
+#             print(i)
+#     print(f"{i} Match Done")
+# else:  
+#     print("app done")
+
+
+
+# students = {
+#     "name": "Alice",
+#     "age": 20
+# }
+
+# try:
+#     text = students["grade"]
+# except Exception as err:
+#     print(f"Unexpected error: {type(err).__name__}: {err}")
+# print(students.get("grade"))
+# #print(students["grade"])
+
+# ''' 
+#     this is a test
+#     and it continues on the next line
+# '''
+
